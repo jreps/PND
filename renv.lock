@@ -1,0 +1,55 @@
+{
+	"R" : {
+		"Version" : "3.6.3",
+		"Repositories" : [
+			{
+				"Name" : "CRAN",
+				"URL" : "https://cloud.r-project.org"
+			}
+		]
+	},
+	"Packages" : {
+		"lattice" : {
+			"Package" : "lattice",
+			"Version" : "0.20-38",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
+		},
+		"data.table" : {
+			"Package" : "data.table",
+			"Version" : "1.14.2",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
+		},
+		"magrittr" : {
+			"Package" : "magrittr",
+			"Version" : "2.0.2",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
+		},
+		"Matrix" : {
+			"Package" : "Matrix",
+			"Version" : "1.2-18",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
+		},
+		"stringi" : {
+			"Package" : "stringi",
+			"Version" : "1.4.6",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
+		},
+		"xgboost" : {
+			"Package" : "xgboost",
+			"Version" : "0.90.0.1",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
+		},
+		"renv" : {
+			"Package" : "renv",
+			"Version" : "0.12.0",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
+		}
+	}
+}

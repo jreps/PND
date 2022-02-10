@@ -1,0 +1,17 @@
+Package: PND
+Type: Package
+Title: Package for applying models developed to predict future risk of depression during and after pregnancy using inputs at week 4-10 of pregnancy.
+Version: 1.0.0
+Date: 2022-02-01
+Authors@R: c(
+    person("Jenna", "Reps", email = "jreps@its.jnj.com", role = c("aut", "cre"))
+    )
+Maintainer: Jenna Reps <jreps@its.jnj.com>
+Description: A package for applying five different prediction that take as input survey responses at during weeks 4-10 of pregnancy to predict future depression risk for five different time points
+License: Apache License 2.0
+Depends:
+    R (>= 3.3.0)
+Imports:
+    xgboost (> 1.3.2.1)
+RoxygenNote: 7.1.1
+Encoding: UTF-8
