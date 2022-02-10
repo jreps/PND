@@ -3,6 +3,8 @@ This package contains the five models described in [Development of multivariable
 
 In the study the authors used survey responses answered during week 4 to week 10 of pregnancy to developed five models that predict risk of developing depression at five different time points (at week 12/13 of pregnancy, at week 21 of pregnancy, at week 32 of pregnancy, 4 weeks after delivery and 12 weeks after delivery).
 
+**Warning** These models have been newly developed and have not been externally or prospectively validated.  This package is intended to enable other researcher to validate the models.  Until the models have been thoroughly validated, they should not be used to aid clinical decision making.
+
 Our models are free to use.
 
 # Installing the package
